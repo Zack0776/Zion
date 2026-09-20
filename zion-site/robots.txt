@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Troque pelo seu domínio depois de publicar
-Sitemap: https://SEU-DOMINIO.com/sitemap.xml
